@@ -28,11 +28,8 @@ This project analyzes **hospital admissions, billing trends, and insurance impac
 
 ## **Project Deliverables**
 ### **📊 Tableau Dashboard**
-![Tableau Dashboard](tableau_dashboard.png)
 🔗 **View Full Dashboard:** [
 ](https://public.tableau.com/app/profile/jordan.williams5300/viz/HealthcareInsights_17393861021680/Dashboard2#1)
-### **📂 SQL Queries & Scripts**
-- [SQL Data Cleaning & Analysis](sql_queries.sql)
 
 ## **How to Use This Repository**
 1. **Clone the Repository:**
