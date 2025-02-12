@@ -26,10 +26,6 @@ This project analyzes **hospital admissions, billing trends, and insurance impac
 - **Medicare covers 60% of hospital bills**, affecting reimbursement rates.
 - 🔹 **Actionable Insight:** Adjust financial strategies based on insurance coverage distribution.
 
-## **Project Deliverables**
-### **📊 Tableau Dashboard**
-🔗 **View Full Dashboard:** [
-](https://public.tableau.com/app/profile/jordan.williams5300/viz/HealthcareInsights_17393861021680/Dashboard2#1)
 
 ## **How to Use This Repository**
 1. **Clone the Repository:**
